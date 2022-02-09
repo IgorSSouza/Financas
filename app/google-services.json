@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "989405321748",
+    "project_id": "financasgastos",
+    "storage_bucket": "financasgastos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989405321748:android:8b18683a9661bea8f62501",
+        "android_client_info": {
+          "package_name": "com.example.fiancas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989405321748-tj16geh8gfui5s7m6qjllfb7966fu0ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fiancas",
+            "certificate_hash": "2e3266ab4aa9efc29c6c3125684bc2b5ce0a26ce"
+          }
+        },
+        {
+          "client_id": "989405321748-a5k16ftrem9j9icqmj6c3pned830q0j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFwoYIZcYDp3n70HBDd71YqtgATfjoTwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989405321748-a5k16ftrem9j9icqmj6c3pned830q0j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
